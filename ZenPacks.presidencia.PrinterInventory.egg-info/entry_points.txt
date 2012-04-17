@@ -1,0 +1,3 @@
+[zenoss.zenpacks]
+ZenPacks.presidencia.PrinterInventory = ZenPacks.presidencia.PrinterInventory
+
